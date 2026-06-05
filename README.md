@@ -61,8 +61,8 @@ Source repository: <https://github.com/handongliren/handongliren>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/handongliren"><img src="https://img.shields.io/badge/GitHub-handongliren-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/handongliren"><img src="https://img.shields.io/badge/Gitee-handongliren-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/1020168139"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e5%af%92%e5%86%ac%e5%88%a9%e5%88%83-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://gitee.com/handongliren" target="_blank"><img src="https://img.shields.io/badge/Gitee-handongliren-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://space.bilibili.com/1020168139" target="_blank"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e5%af%92%e5%86%ac%e5%88%a9%e5%88%83-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/handongliren"><img src="https://komarev.com/ghpvc/?username=handongliren&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
