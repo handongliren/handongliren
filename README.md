@@ -28,7 +28,7 @@ Source repository: <https://github.com/handongliren/handongliren>
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20HanDongLiRen&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20handongliren&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -62,7 +62,7 @@ Source repository: <https://github.com/handongliren/handongliren>
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/handongliren"><img src="https://img.shields.io/badge/GitHub-handongliren-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/handongliren"><img src="https://img.shields.io/badge/Gitee-handongliren-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%88%91%e5%b0%b1%e6%98%af%e5%b0%8f%e5%ba%b7-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://space.bilibili.com/1020168139"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e5%af%92%e5%86%ac%e5%88%a9%e5%88%83-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/handongliren"><img src="https://komarev.com/ghpvc/?username=handongliren&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
